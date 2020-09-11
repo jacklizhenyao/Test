@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  ///dev from master,then  pushed to remote
+  ///the dev from remote dev branch
   runApp(MyApp());
 }
 
