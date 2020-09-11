@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  ///the dev from remote dev branch
+  ///change tag v1.0 to tag  v1.0.1
   runApp(MyApp());
 }
 
