@@ -4,6 +4,8 @@ void main() {
   ///开发了功能一
   ///has fixed the bug on 2020/9/14/10:45
   ///has fixed the bug on 2020/9/11/17:57
+  ///fix bug on branch bugfix on 2020/9/14/11:18 for v1.0
+  ///dev from master,then  pushed to remote
   runApp(MyApp());
 }
 
