@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  ///开发了功能一
   ///has fixed the bug on 2020/9/11/17:57
   runApp(MyApp());
 }
