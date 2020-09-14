@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  ///change tag v1.0 to tag  v1.0.1
+  ///has fixed the bug on 2020/9/11/17:57
   runApp(MyApp());
 }
 
