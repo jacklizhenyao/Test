@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  ///fix bug on branch bugfix on 2020/9/14/11:18 for v1.0
   ///dev from master,then  pushed to remote
   runApp(MyApp());
 }
